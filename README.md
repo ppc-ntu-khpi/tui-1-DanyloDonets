@@ -10,7 +10,7 @@
 2. Завантажив та "зростив" з проектом файли минулих практичних з класами bank, customers...
 4. Виправив помилку в файлі test.data, замінив крапки на коми, бо сканер не розумів що то за число 
 5. Створив функцію  getCustomerDetails в якому отримум інформацію з бази даних та інших класів
-<br>
+
 ## Скріншоти працездатності програми:
 <img src="https://github.com/ppc-ntu-khpi/tui-1-DanyloDonets/blob/master/unknown%20(5).png"/>
 <img src="https://github.com/ppc-ntu-khpi/tui-1-DanyloDonets/blob/master/unknown%20(6).png"/>
